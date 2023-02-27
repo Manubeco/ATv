@@ -14,5 +14,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - CSS3;
 - JavaScript;
 - Git e Github.
-
-## 👽Contato
